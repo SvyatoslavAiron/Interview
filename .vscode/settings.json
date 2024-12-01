@@ -1,6 +1,0 @@
-{
-  // hidden folders
-  "files.exclude": {
-    "**/.vscode": true,
-  }
-}
