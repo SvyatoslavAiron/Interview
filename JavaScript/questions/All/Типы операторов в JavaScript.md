@@ -15,3 +15,8 @@
 | Оператор нулевого слияния | `x ?? y` |
 
  (&#x1F49C;)
+
+ ```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
