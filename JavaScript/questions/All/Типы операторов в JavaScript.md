@@ -1,3 +1,6 @@
+<style>
+  body { color: red; }
+</style>
 ## Типы операторов в JavaScript?
 
 | Операторы присваивания | x = y, x += y, x %=y, ... |
