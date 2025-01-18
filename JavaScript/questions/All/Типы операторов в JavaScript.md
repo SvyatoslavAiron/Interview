@@ -13,3 +13,10 @@
 | Унарный оператор | `delete x, typeof y, ...` |
 | Операторы отношения | `x in y, instance y, ...` |
 | Оператор нулевого слияния | `x ?? y` |
+
+
+# Пример цветного текста
+
+Это обычный текст, а <span style="color: red;">это красный текст</span>.
+
+Это <span style="color: blue;">синий текст</span>, а это <span style="color: green;">зеленый текст</span>.
