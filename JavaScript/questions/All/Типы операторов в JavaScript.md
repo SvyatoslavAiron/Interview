@@ -14,4 +14,4 @@
 | Операторы отношения | `x in y, instance y, ...` |
 | Оператор нулевого слияния | `x ?? y` |
 
-style="color:green;font-weight:700;font-size:20px">markdown color font styles </span>
+ (&#x1F49C;)
