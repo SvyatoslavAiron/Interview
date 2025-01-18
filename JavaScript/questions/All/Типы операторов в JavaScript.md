@@ -14,9 +14,4 @@
 | Операторы отношения | `x in y, instance y, ...` |
 | Оператор нулевого слияния | `x ?? y` |
 
-
-# Пример цветного текста
-
-Это обычный текст, а <span style="color: red;">это красный текст</span>.
-
-Это <span style="color: blue;">синий текст</span>, а это <span style="color: green;">зеленый текст</span>.
+style="color:green;font-weight:700;font-size:20px">markdown color font styles </span>
