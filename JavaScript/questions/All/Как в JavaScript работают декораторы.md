@@ -60,5 +60,5 @@ function cachingDecoration(func) {
 
 obj.mul = cachingDecoration(obj.mul);
 
-obj.mul(3, 2, 2);
+obj.mul(6, 6, 6);
 ```
