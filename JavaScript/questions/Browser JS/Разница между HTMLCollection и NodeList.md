@@ -1,6 +1,6 @@
 ## Разница между HTMLCollection и NodeList?
 
-**HTMLCollection и NodeList** — это массивоподобные коллекции DOM-элементов
+**HTMLCollection и NodeList** - это массивоподобные коллекции DOM-элементов
 
 - NodeList может хранить любые типы узлов, а HTMLCollection - только узлы HTML элементов.
 
