@@ -1,4 +1,4 @@
-## Разница между URI и URL?
+## Разница между URI, URL и URN?
 
 **URI (Uniform Resource Identifier)** — это общий термин для идентификации ресурса.
 
