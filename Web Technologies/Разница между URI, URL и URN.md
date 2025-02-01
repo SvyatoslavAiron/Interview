@@ -1,7 +1,7 @@
 ## Разница между URI, URL и URN?
 
-**URI (Uniform Resource Identifier)** — это общий термин для идентификации ресурса.
+**URI (Uniform Resource Identifier)** - это общий термин для идентификации ресурса.
 
-- URL (Uniform Resource Locator) указывает на местоположение ресурса в сети (например, https://example.com/page).
+- URL (Uniform Resource Locator) указывает на местоположение ресурса в сети, который включает протокол, домен, путь и другие параметры (например, https://example.com/page).
 
-- URN (Uniform Resource Name) — это уникальное имя ресурса, которое не зависит от его местоположения (например, urn:isbn:0451450523).
+- URN (Uniform Resource Name) - это уникальное имя ресурса, которое не зависит от его местоположения (например, urn:isbn:0451450523).
